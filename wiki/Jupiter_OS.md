@@ -43,6 +43,6 @@ JupiterOS 3 is meant to be the most recent version of JOS but it has not been up
 
 | <a href="https://user-images.githubusercontent.com/58103738/134953017-8e20494a-3a34-4d2f-a2fa-371c8635e2ba.png"><img height="300" alt="pfp" src="https://user-images.githubusercontent.com/58103738/134953017-8e20494a-3a34-4d2f-a2fa-371c8635e2ba.png" /></a> |
 | - |
-| **Desktop - original** |
+| **Desktop - JupiterOS 1.0** |
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
