@@ -17,7 +17,7 @@
 
 ### JupiterOS
 
-JupiterOS is The First OS Made by Jupiter Inc its first development stage was JupiterOS Build 110. Its Name Can Be JOS(Short For JupiterOS).
+JupiterOS is The OS Made by Jupiter Inc.
 
 ### JupiterOS 1.0
 
@@ -29,7 +29,7 @@ JupiterOS 2 was the second version released again on discord.
 
 ### JupiterOS 3.0
 
-JupiterOS 3 is meant to be the most recent version of JOS but it has not been uploaded I Might Make A New Version And Release It Then
+JupiterOS 3 is meant to be the most recent version of JOS but it has not been uploaded
 
 #### Downloads
 
